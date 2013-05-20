@@ -2,6 +2,10 @@ Iraq War Logs
 ===========
 
 Code used for generating a pixel plot of the deaths in the SIGACT database released by [Wikileaks](http://wikileaks.org/irq/) and cleaned by [The Guardian](http://www.guardian.co.uk/news/datablog/2010/oct/23/wikileaks-iraq-data-journalism#data)
+
+![function](http://payload166.cargocollective.com/1/12/386728/5633020/function.jpg)
+
+More infos on [leytey](http://leytey.net)
 ***
 
 Requirements
